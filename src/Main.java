@@ -154,4 +154,3 @@ public class Main {
         System.out.println("Hermione's GPA: " + hermione.calculateGPA());
     }
 }
-
